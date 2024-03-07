@@ -6,5 +6,7 @@ Um RPG de texto com ações pré-determinadas é um jogo de interpretação de p
 
 
 #fad46b
+
 Background do tutorial e do sobre #ffd769
+
 #ffd86b
