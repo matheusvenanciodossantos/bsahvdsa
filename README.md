@@ -61,6 +61,9 @@ proximo
 proximo
 2 Seu time nao se classificou para as finais tenta na temporada seguinte You lost 
 
+2 Você ?
+1 Entro no jogo 
+2 Falo que é melhor eu não entrar e reconhecer que esta meio nervoso 
 
 
 
